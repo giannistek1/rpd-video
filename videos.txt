@@ -1,10 +1,3 @@
-{(G)I-DLE}{HEAT}{I Want That}{C}{1}
-{(G)I-DLE}{I Made}{Senorita}{C}{1}
-{(G)I-DLE}{I Never Die}{My Bag}{C}{2}
-{(G)I-DLE}{I Sway}{Klaxon}{C}{1}
-{(G)I-DLE}{Queendom Final Comeback}{LION}{C}{1}
-{(G)I-DLE}{Wife}{Wife}{C}{1}
-{(G)I-DLE}{Wife}{Wife}{DB}{1}
 {2NE1}{2NE1}{I Dont Care}{C}{1}
 {2NE1}{Crush}{Gotta Be You}{C}{1}
 {2NE1}{I Love You}{I Love You}{C}{1}
@@ -172,6 +165,13 @@
 {HYOYEON (SNSD)}{Picture}{Picture}{C}{1}
 {HYOYEON (SNSD)}{Punk Right Now}{Punk Right Now}{C}{1}
 {HYOYEON (SNSD)}{Wannabe}{Wannabe}{C}{1}
+{I-DLE}{HEAT}{I Want That}{C}{1}
+{I-DLE}{I Made}{Senorita}{C}{1}
+{I-DLE}{I Never Die}{My Bag}{C}{2}
+{I-DLE}{I Sway}{Klaxon}{C}{1}
+{I-DLE}{Queendom Final Comeback}{LION}{C}{1}
+{I-DLE}{Wife}{Wife}{C}{1}
+{I-DLE}{Wife}{Wife}{DB}{1}
 {I-LAND}{Into the I-LAND}{Into the I-LAND (applicants ver.)}{C}{3}
 {ILLIT}{Ill Like You}{Cherish (My Love)}{C}{1}
 {ILLIT}{Ill Like You}{Tick-Tack}{C}{2}
